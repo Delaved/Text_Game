@@ -1,0 +1,8 @@
+D:\programm\My Programm\c#\Game_Roguelike\Game_Roguelike\bin\Debug\Game_Roguelike.exe.config
+D:\programm\My Programm\c#\Game_Roguelike\Game_Roguelike\bin\Debug\Game_Roguelike.exe
+D:\programm\My Programm\c#\Game_Roguelike\Game_Roguelike\bin\Debug\Game_Roguelike.pdb
+D:\programm\My Programm\c#\Game_Roguelike\Game_Roguelike\obj\Debug\Game_Roguelike.csproj.AssemblyReference.cache
+D:\programm\My Programm\c#\Game_Roguelike\Game_Roguelike\obj\Debug\Game_Roguelike.csproj.SuggestedBindingRedirects.cache
+D:\programm\My Programm\c#\Game_Roguelike\Game_Roguelike\obj\Debug\Game_Roguelike.csproj.CoreCompileInputs.cache
+D:\programm\My Programm\c#\Game_Roguelike\Game_Roguelike\obj\Debug\Game_Roguelike.exe
+D:\programm\My Programm\c#\Game_Roguelike\Game_Roguelike\obj\Debug\Game_Roguelike.pdb

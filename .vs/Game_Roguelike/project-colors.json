@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a97f0e43-0013-4913-8f1f-2ebee78efac1": {
+      "ProjectGuid": "a97f0e43-0013-4913-8f1f-2ebee78efac1",
+      "DisplayName": "Game_Roguelike",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
